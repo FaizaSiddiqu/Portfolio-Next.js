@@ -43,7 +43,7 @@ const Contact = () => {
                 id="msg" rows={8} >
                 </textarea>
               </div>
-              <button className="bg-customPurple p-2 px-8 text-black hover:text-white rounded-lg" data-aos="zoom-in-up">Send</button>
+              <button className="bg-customPurple p-2 px-8 text-black hover:text-white rounded-lg">Send</button>
 
 
             </div>

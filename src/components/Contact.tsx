@@ -36,7 +36,7 @@ const Contact = () => {
                 id="email" />
               </div>
 
-              <div className="flex flex-col gap-1" data-aos="zoom-in-up">
+              <div className="flex flex-col gap-1">
                 <label htmlFor="msg">Message:</label>
                 <textarea
                 className="bg-transparent border-2 border-customPurple rounded-md"
